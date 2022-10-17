@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a26cb30-0caa-4bd7-937f-56f7a0426931" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/replit173/ChaiTea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replit173/LemonTea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replit173/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replit173/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replit174/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replit174/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit172/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +44,33 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.replit173.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ReplitPractice2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="replit177.Main" />
       <module name="ReplitPractice2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="replit177.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="replit172.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replit172.Main" />
+      <module name="ReplitPractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="replit172.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,6 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.replit172.Main" />
         <item itemvalue="Application.replit173.Main" />
         <item itemvalue="Application.replit174.Main" />
         <item itemvalue="Application.Main" />
@@ -105,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665959155800</updated>
       <workItem from="1665959157077" duration="5570000" />
-      <workItem from="1665964929089" duration="1961000" />
+      <workItem from="1665964929089" duration="6106000" />
     </task>
     <servers />
   </component>
