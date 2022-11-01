@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a26cb30-0caa-4bd7-937f-56f7a0426931" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/replit190/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit189/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +43,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.replit190.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="replit194.Main" />
+  <component name="RunManager" selected="Application.replit189.Main">
+    <configuration name="replit189.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replit189.Main" />
       <module name="ReplitPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="replit194.*" />
+          <option name="PATTERN" value="replit189.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.replit189.Main" />
         <item itemvalue="Application.replit190.Main" />
         <item itemvalue="Application.replit191.Main" />
         <item itemvalue="Application.replit192.Main" />
         <item itemvalue="Application.replit193.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,7 @@
       <workItem from="1666051716274" duration="1039000" />
       <workItem from="1666658913345" duration="2659000" />
       <workItem from="1666670260025" duration="10000" />
-      <workItem from="1667267443035" duration="6322000" />
+      <workItem from="1667267443035" duration="7313000" />
     </task>
     <servers />
   </component>
