@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a26cb30-0caa-4bd7-937f-56f7a0426931" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/replit191/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replit190/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +43,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.replit191.Main">
-    <configuration name="Encode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Encode" />
+  <component name="RunManager" selected="Application.replit190.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replit194.Main" />
       <module name="ReplitPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="replit194.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="replit194.Main" />
+    <configuration name="replit190.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replit190.Main" />
       <module name="ReplitPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="replit194.*" />
+          <option name="PATTERN" value="replit190.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.replit190.Main" />
         <item itemvalue="Application.replit191.Main" />
         <item itemvalue="Application.replit192.Main" />
         <item itemvalue="Application.replit193.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Encode" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,7 @@
       <workItem from="1666051716274" duration="1039000" />
       <workItem from="1666658913345" duration="2659000" />
       <workItem from="1666670260025" duration="10000" />
-      <workItem from="1667267443035" duration="5235000" />
+      <workItem from="1667267443035" duration="6322000" />
     </task>
     <servers />
   </component>
